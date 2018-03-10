@@ -55,7 +55,7 @@ div {
   box-sizing: border-box; }
 
 #header {
-  padding: 58px 0 0;
+  padding: 20px 0 0;
   text-align: left;
   border-bottom: 1px solid #ddd;
   position: relative; }
@@ -735,14 +735,14 @@ pre {
   padding: 5px 10px;
   border: 1px solid #ddd;
   border-radius: 5px;
-  float: right; }
+  float: right;
+  transition: box-shadow .4s linear; }
   .readmore a:after {
     font-family: "FontAwesome";
     content: "\f101";
     padding-left: 0.3em; }
   .readmore a:hover {
-    background: #F8F8F8;
-    border-bottom-color: #D26911; }
+    box-shadow: 1px 0 1px #eee,-1px 0 1px #eee, 0 1px 1px #eee,0 -1px 1px #eee; }
 
 /* syntax highlight*/
 figure.highlight,
