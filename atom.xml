@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>木公私房菜</title>
+  
+  
+  <link href="/mugong/atom.xml" rel="self"/>
+  
+  <link href="https://lidasong.github.io/mugong/"/>
+  <updated>2018-03-10T07:52:36.961Z</updated>
+  <id>https://lidasong.github.io/mugong/</id>
+  
+  <author>
+    <name>木 公</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年初目标</title>
+    <link href="https://lidasong.github.io/mugong/2018/03/10/blog/2018-03-10-target/"/>
+    <id>https://lidasong.github.io/mugong/2018/03/10/blog/2018-03-10-target/</id>
+    <published>2018-03-10T06:37:52.979Z</published>
+    <updated>2018-03-10T07:52:36.961Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="总概"><a href="#总概" class="headerlink" title="总概"></a>总概</h2><h3 id="生活中"><a href="#生活中" class="headerlink" title="生活中"></a>生活中</h3><p>2018年需要从生活方式开始做起，重塑一个完整的自己。</p><ul><li>起居<blockquote><p>逐渐养成早睡早起的作息规律(目前 01:00 - 08::30)，保护充足的休息时间以及睡眠质量</p></blockquote></li><li>运动<blockquote><p>运动是青春的保鲜剂，一周中最少抽出2~3个小时运动锻炼(篮球、羽毛球，慢跑…)</p></blockquote></li><li>感情<blockquote><p>争取今年告别单身生活，找到自己心仪的对象，向 11.11狗节say goodbye！！！</p></blockquote></li></ul><h3 id="工作中"><a href="#工作中" class="headerlink" title="工作中"></a>工作中</h3><p>2018年对于入职一年多的小菜鸟来说，还算是崭新的一年，这一年需要更多的时间去充实自己的技术基础，虽然目前来说已经对项目有了完整的掌控，对各种需求可以轻松处理，但是为了应对更残酷的明天，一个有追求的前端开发还需要实时跟随时代的脉搏。<br>尽可能做些内部分享，将自己的在项目中处理工作的一些感悟以及知识点分享给团队开发成员，将平时的空隙时间自己研究的技术储备向大家介绍，以求共同学习，抛砖引玉。</p><h3 id="性格"><a href="#性格" class="headerlink" title="性格"></a>性格</h3><p>个人认为自己是过度浮躁，在平时的问题处理上，在工作中，虽然很想压制自己的鲁莽，但还时不时会带入，这个极大地影响了工作链中交流困扰；即使性格的改变不可能一朝一夕，但千里之行始于足下，一点点的改变都会有不一样的成果。</p><h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>作为一面前端工程师，需要做的很多，但是很多重要的点并没有真正地做到庖丁解牛的地步，在这些方面要更下功夫，能理解，用得好，还要深刻剖析，可以二次加工，知其内涵。<br>21世纪是数据的时代，学习一门新的语言——Python，通过Python去认知数据的世界。</p>]]></content>
+    
+    <summary type="html">
+    
+      2018年 年初目标，未来一段时间规划!
+    
+    </summary>
+    
+      <category term="blog" scheme="https://lidasong.github.io/mugong/categories/blog/"/>
+    
+    
+      <category term="目标 年初目标" scheme="https://lidasong.github.io/mugong/tags/%E7%9B%AE%E6%A0%87-%E5%B9%B4%E5%88%9D%E7%9B%AE%E6%A0%87/"/>
+    
+  </entry>
+  
+</feed>
