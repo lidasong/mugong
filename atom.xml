@@ -6,7 +6,7 @@
   <link href="/mugong/atom.xml" rel="self"/>
   
   <link href="https://lidasong.github.io/mugong/"/>
-  <updated>2018-03-10T07:52:36.961Z</updated>
+  <updated>2018-03-11T07:18:51.625Z</updated>
   <id>https://lidasong.github.io/mugong/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript的开销</title>
+    <link href="https://lidasong.github.io/mugong/2018/03/11/JavaScript%E7%9A%84%E5%BC%80%E9%94%80/"/>
+    <id>https://lidasong.github.io/mugong/2018/03/11/JavaScript的开销/</id>
+    <published>2018-03-11T06:15:16.000Z</published>
+    <updated>2018-03-11T07:18:51.625Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>在当前的前端开发中，越来越多的重型应用依赖高复杂度的JavaScript，然而很多时候，在不经意间提升了JS的开销。<br>那么就需要有一定的规则来提高应用更快的运行。<br> $$ 更少的代码 = 更小的解析开销 + 更少的传输与解压 $$</p></blockquote><h2 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h2><p>如果JavaScript的文本越大，那么通过线路发送更多字节的JavaScript需要的时间越长，下载和执行成本也就会更高。用户所体验到的就是越慢。</p><p><strong>那么如何减少网络传输带来的开销呢</strong></p><ul><li>通过代码的拆分，只传输页面需要使用到的代码。</li><li>代码的压缩，通过（Brotli~q11，Zopfli 或者gzip）最大化的代码压缩，较少传送的代码量，进而加速加载速度</li><li>删除不使用的代码，通过<a href="https://developers.google.com/web/updates/2017/04/devtools-release-notes" target="_blank" rel="external">Devtools</a>可以发现那些代码并没有使用</li><li>通过缓存，减少资源的重复加载。根据JS的生命周期减少不会改变的JS文本，也可以使用最新的Service Worker进行弹性的缓存</li></ul><h2 id="解析-编译"><a href="#解析-编译" class="headerlink" title="解析/编译"></a>解析/编译</h2><p>当JavaScript文件下载完成后，JavaScript的最严重的开销就是JS引擎对代码的解析编译。如果JS的解析花费的时间越长的话，这样用户的交互响应对应的被延迟。尤其对于移动端来说，移动设备的CPU与GPU更慢，而且存储也更有限。<br>因此尽量去除不重要的JavaScript代码是很有必要的，这回减少传输时间，相应的也会加快CPU的解析编译速度，也会减少内存溢出的潜在风险。</p><h2 id="执行"><a href="#执行" class="headerlink" title="执行"></a>执行</h2><p>除了JavaScript的解析编译会花费大量时间外，JS的执行也会在主线程中执行，阻塞其他的各类交互响应，因此<br>JS的执行时间越长，也就会延长用户正常交互的等待时间</p><h2 id="减少JavaScript传输开销模式"><a href="#减少JavaScript传输开销模式" class="headerlink" title="减少JavaScript传输开销模式"></a>减少JavaScript传输开销模式</h2><p>基于路由的分块或者PRPL,更加详细的介绍 =&gt; <a href="https://developers.google.com/web/fundamentals/performance/prpl-pattern/?hl=zh-cn" target="_blank" rel="external"><strong>PRPL</strong></a></p><h2 id="其他类型的开销"><a href="#其他类型的开销" class="headerlink" title="其他类型的开销"></a>其他类型的开销</h2><ul><li>内存。如果GC频繁触发会导致页面出现卡顿。当浏览器进行内存的回收，就要导致JS暂停执行。注意避免内存泄漏与频繁的GC可以有更好的交互效果。</li><li>大量计算。因为JS的单线程，如果主线程在做大量的计算处理，相应的就会导致页面的不可交互。因此将大工作量分块(requestAnimationFrame、requestIdleCallback)，这样就可以减少不可交互的出现。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      JavaScript开销及优化
+    
+    </summary>
+    
+    
+      <category term="javascript" scheme="https://lidasong.github.io/mugong/tags/javascript/"/>
+    
+      <category term="performance" scheme="https://lidasong.github.io/mugong/tags/performance/"/>
+    
+  </entry>
   
   <entry>
     <title>2018年初目标</title>
