@@ -89,11 +89,26 @@
                 <li>在一个复合层之上</li>
               </ul>
               <h2 id="层的压缩"><a href="#层的压缩" class="headerlink" title="层的压缩"></a>层的压缩</h2>
-              <p>规则都是有例外的，正如上面所提到的，图形层在内存以及其他资源上是一种消耗（例如一些重要的操作的CPU时间复杂度是与图形树的尺寸成正比的）。</p>
+              <p>规则都是有例外的，正如上面所提到的，复合层在内存以及其他资源上是一种消耗（例如一些重要的操作的CPU时间复杂度是与图形树的尺寸成正比的）。</p>
               <p>如果我们把固有的创建复合层的原因（比如使用3D转换）叫做直接原因。那么为了避免当大量元素使用直接原因导致“层爆炸”，多个渲染层同一个合成层重叠时，Blink将这些层压缩到一个背后的层中。这样就可以避免重叠导致的层次爆炸。</p>
+              <p>(后续。。。。)</p>
             </div>
             <div class="tags"><a href="/mugong/tags/translation-render-chrome-翻译/">translation render chrome 翻译</a></div>
             <div class="post-nav"><a href="/mugong/2018/03/11/JavaScript的开销/" class="next">JavaScript的开销</a></div>
+            <div id="container"></div>
+            <link rel="stylesheet" href="/mugong/css/default.css?v=0.0.0">
+            <script src="/mugong/js/gitment.browser.js?v=0.0.0"></script>
+            <script>
+              var gitment = new Gitment({
+                owner: 'lidasong',
+                repo: 'mugong',
+                oauth: {
+                  client_id: '47e6240cd699a4a9be33',
+                  client_secret: 'd099347649bfc1aec9110c76bc53e19668eda5e9',
+                },
+              })
+              gitment.render('container')
+            </script>
           </div>
         </div>
       </div>
@@ -110,7 +125,7 @@
           </div>
           <div class="widget">
             <div class="widget-title"><i class="fa fa-star-o"> 标签</i></div>
-            <div class="tagcloud"><a href="/mugong/tags/javascript/" style="font-size: 15px;">javascript</a> <a href="/mugong/tags/performance/" style="font-size: 15px;">performance</a> <a href="/mugong/tags/translation-render-chrome-翻译/" style="font-size: 15px;">translation render chrome 翻译</a>              <a href="/mugong/tags/目标-年初目标/" style="font-size: 15px;">目标 年初目标</a></div>
+            <div class="tagcloud"><a href="/mugong/tags/translation-render-chrome-翻译/" style="font-size: 15px;">translation render chrome 翻译</a> <a href="/mugong/tags/javascript/" style="font-size: 15px;">javascript</a> <a href="/mugong/tags/performance/" style="font-size: 15px;">performance</a>              <a href="/mugong/tags/目标-年初目标/" style="font-size: 15px;">目标 年初目标</a></div>
           </div>
           <div class="widget">
             <div class="widget-title"><i class="fa fa-file-o"> 最近文章</i></div>
