@@ -6,7 +6,7 @@
   <link href="/mugong/atom.xml" rel="self"/>
   
   <link href="https://lidasong.github.io/mugong/"/>
-  <updated>2018-03-25T09:17:39.841Z</updated>
+  <updated>2018-04-06T05:42:00.875Z</updated>
   <id>https://lidasong.github.io/mugong/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2018年初目标</title>
+    <link href="https://lidasong.github.io/mugong/2018/04/06/blog/2018-03-10-target/"/>
+    <id>https://lidasong.github.io/mugong/2018/04/06/blog/2018-03-10-target/</id>
+    <published>2018-04-06T05:42:00.871Z</published>
+    <updated>2018-04-06T05:42:00.875Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="总概"><a href="#总概" class="headerlink" title="总概"></a>总概</h2><h3 id="生活中"><a href="#生活中" class="headerlink" title="生活中"></a>生活中</h3><p>2018年需要从生活方式开始做起，重塑一个完整的自己。</p><ul>  <li>起居    <blockquote>      <p>逐渐养成早睡早起的作息规律(目前 01:00 - 08::30)，保护充足的休息时间以及睡眠质量</p>    </blockquote>  </li>  <li>运动    <blockquote>      <p>运动是青春的保鲜剂，一周中最少抽出2~3个小时运动锻炼(篮球、羽毛球，慢跑…)</p>    </blockquote>  </li>  <li>LBMI (Last But Most Important)    <blockquote>      <p>say goodbye to double 11 ！！！</p>    </blockquote>  </li></ul><h3 id="工作中"><a href="#工作中" class="headerlink" title="工作中"></a>工作中</h3><p>2018年对于入职一年多来说，还只能算是小菜鸟，崭新的一年。这一年需要更多的时间去充实自己的技术基础，虽然目前来说已经对项目有了完整的掌控，对各种需求可以轻松处理，但是为了应对更残酷的明天，一个有追求的前端开发还需要实时跟随时代的脉搏。<br>尽可能做些内部分享，将自己的在项目中处理工作的一些感悟以及知识点分享给团队开发成员，将平时的空隙时间自己研究的技术储备向大家介绍，以求共同学习，抛砖引玉。</p><h3 id="性格"><a href="#性格" class="headerlink" title="性格"></a>性格</h3><p>摒弃浮躁，尽量压制自己的鲁莽，更友好交流，做个更完美的聆听者。</p><h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>作为一面前端工程师，需要做的很多，但是很多重要的点并没有真正地做到庖丁解牛的地步，在这些方面要更下功夫，能理解，用得好，还要深刻剖析，可以二次加工，知其内涵。<br>21世纪是数据的时代，学习一门新的语言——Python，通过Python去认知数据的世界。</p>]]></content>
+    
+    <summary type="html">
+    
+      2018年 年初目标，未来一段时间规划!
+    
+    </summary>
+    
+      <category term="blog" scheme="https://lidasong.github.io/mugong/categories/blog/"/>
+    
+    
+      <category term="目标 年初目标" scheme="https://lidasong.github.io/mugong/tags/%E7%9B%AE%E6%A0%87-%E5%B9%B4%E5%88%9D%E7%9B%AE%E6%A0%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello Python</title>
     <link href="https://lidasong.github.io/mugong/2018/03/25/Hello%20Python/"/>
     <id>https://lidasong.github.io/mugong/2018/03/25/Hello Python/</id>
     <published>2018-03-25T08:40:08.000Z</published>
-    <updated>2018-03-25T09:17:39.841Z</updated>
+    <updated>2018-04-06T05:42:00.859Z</updated>
     
     <content type="html"><![CDATA[<h2 id="What-the-Python-is"><a href="#What-the-Python-is" class="headerlink" title="What the Python is"></a>What the Python is</h2><blockquote>  <p>是一种广泛使用的高级编程语言，属于通用型编程语言，由吉多·范罗苏姆 创造，第一版发布于 1991 年。可以视之为一种改良（加入一些其他编程语言的优点，如面向对象）的 LISP。作为一种解释型语言，Python 的设计哲学强调代码的可读性和简洁的语法（尤其是使用空格缩进划分代码块，而非使用大括号或者关键词）。相比于 C++ 或 Java，Python 让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了<br>Python 拥有动态类型系统和垃圾回收功能，能够自动管理内存使用，并且支持多种编程范式，包括面向对象、命令式、函数式和过程式编程。其本身拥有一个巨大而广泛的标准库。</p></blockquote><h2 id="语言特性"><a href="#语言特性" class="headerlink" title="语言特性"></a>语言特性</h2><ul>  <li>Interactive</li>  <li>Interpreted</li>  <li>Modular</li>  <li>Dynamic</li>  <li>Object-oriented</li>  <li>Portable</li>  <li>High level</li>  <li>Extensible in C++ &amp; C</li></ul><h2 id="What-the-advantages"><a href="#What-the-advantages" class="headerlink" title="What the advantages"></a>What the advantages</h2><ul>  <li>广泛的标准库<br>涉及到基本上各种领域，包括web开发、web服务开发工具、操作系统接口，协议。。。。</li>  <li>可集成</li>  <li>提高开发人员的工作效率</li>  <li>强大的生产力</li></ul><h2 id="What-the-disadvantages"><a href="#What-the-disadvantages" class="headerlink" title="What the disadvantages"></a>What the disadvantages</h2><ul>  <li>与其他语言大相径庭<br>python的语言特性相对于其他语言有很大的区别，比如动态类型。</li>  <li>移动端弱计算能力</li>  <li>速度</li>  <li>运行时错误</li>  <li>欠发达的数据库访问层</li></ul><h2 id="Start-From-Cookbook"><a href="#Start-From-Cookbook" class="headerlink" title="Start From Cookbook"></a>Start From Cookbook</h2><p><img src="/mugong/img/book/cookbook.jpg" alt="cookbook"></p>]]></content>
     
@@ -41,7 +63,7 @@
     <link href="https://lidasong.github.io/mugong/2018/03/17/chrome%E4%B8%AD%E6%B8%B2%E6%9F%93%E5%9B%BE%E5%B1%82%E5%90%88%E5%B9%B6%E5%8A%A0%E9%80%9F/"/>
     <id>https://lidasong.github.io/mugong/2018/03/17/chrome中渲染图层合并加速/</id>
     <published>2018-03-17T05:52:55.000Z</published>
-    <updated>2018-03-25T06:00:46.800Z</updated>
+    <updated>2018-04-06T05:42:00.888Z</updated>
     
     <content type="html"><![CDATA[<h2 id="概要"><a href="#概要" class="headerlink" title="概要"></a>概要</h2><p>文档主要详述在Chrome中关于使用硬件加速图层合并的背景知识及其相关细节</p><h2 id="引言：为什么使用硬件进行渲染图层的合并"><a href="#引言：为什么使用硬件进行渲染图层的合并" class="headerlink" title="引言：为什么使用硬件进行渲染图层的合并"></a>引言：为什么使用硬件进行渲染图层的合并</h2><p>在传统的web浏览器中，完全依赖CPU来进行web页面内容的渲染的。如今，即使使用最小的硬件设备<br>都会集成功能可靠的GPUs，因此关注点开始转移到这类底层硬件上来，探索如何使用他们更高效地实现更好的性能和电量节约。<br>使用GPU进行web页面内容的合成可以非常好的进行页面加速。</p><p><strong>使用硬件进行图层合并的三大优势</strong></p><ol>  <li>在涉及到大量像素的页面进行绘图和图层合并操作中，使用GPU合并页面图层比起使用CPU可以带来更高的效率（在速度上以及电量使用上）。GPU就是专门为这类场景而设计的</li>  <li>对于已经存在GPU的内容，重复的读取数据是相当昂贵的（比如已加速的video、canvas2D、webGL）。</li>  <li>通过CPU与GPU的平行处理可以同时创建高效的管道实现图形数据流的绘制。</li></ol><p>最后，需要先声明：Chrome的图形层在前面几年已经有了根本上的演变。这篇文章只关注此时最优秀的架构，而不兼顾所有的平台。关于具体的功能细节，请移步<a href="http://dev.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome/gpu-architecture-roadmap" target="_blank" rel="external">GPU架构之路</a>。此处对不在开发中使用的不会详述。</p><h2 id="第一部分：Blink的渲染基础"><a href="#第一部分：Blink的渲染基础" class="headerlink" title="第一部分：Blink的渲染基础"></a>第一部分：Blink的渲染基础</h2><p>Blink渲染引擎的源码是非常复杂而且庞大的，甚至几乎没有文档。为了理解GPU如何在Chrome中加速渲染的，第一步就是要弄明白Blink如何渲染页面的基础组成模块。</p><h3 id="DOM节点与文档树"><a href="#DOM节点与文档树" class="headerlink" title="DOM节点与文档树"></a>DOM节点与文档树</h3><p>在Blink中，web页面的内容在内部是以叫做文档树的DOM节点对象树存储的。在页面中的每个HTML元素包括在元素节点之间的文本节点都是DOM节点。文档树的最顶层节点被称作<em>文档节点(Document Node)</em></p><h3 id="从节点到渲染对象"><a href="#从节点到渲染对象" class="headerlink" title="从节点到渲染对象"></a>从节点到渲染对象</h3><p>每个在文档树中会产生视觉输出的节点都会生成一个渲染对象。渲染对象保存在与文档树平行的数据结构中，叫做渲染树。每个渲染对象通过调用图形上下文（GrapuicsContext）的绘图调用接口，可以知道如何将DOM节点绘制到显示设备平面上。图形上下文主要负责将像素映射成位图，最终呈现到显示屏幕的。在Chrome中，图形上下文包裹了Skia（2D 绘图库）。</p><p>传统的图形上下文的调用大多数都是通过直接调用如SkCanvas或者SkPlatformCanvas将内容绘制到位图点的（<a href="http://www.chromium.org/developers/design-documents/graphics-and-skia" target="_blank" rel="external">可以查看这篇文章</a>，了解关于Chrome如何使用Skia在这种模型下处理的详细内容）。但是从主线程中移除绘制过程（后面会详细讲述），这些指令现在都会记录到<a href="https://code.google.com/p/skia/source/browse/trunk/include/core/SkPicture.h" target="_blank" rel="external">SkPicture</a>。SkPicture是一个序列化的数据结构，可以捕获并且可以在随后重新触发这些指令。类似一组  <a href="https://en.wikipedia.org/wiki/Display_list" target="_blank" rel="external">展示列表</a></p><h3 id="从渲染对象到渲染层"><a href="#从渲染对象到渲染层" class="headerlink" title="从渲染对象到渲染层"></a>从渲染对象到渲染层</h3><p>每一个渲染对象都直接或者通过祖先的渲染对象间接的与一个渲染层相关联。</p><p>分享公共坐标空间（例如被同样的CSS transform影响）的渲染对象一般属于同一个显然层。页面中按照正确顺序复合进行展示重叠内容的元素，半透明元素等等都会生成渲染层。<br>对于一个特定的渲染对象有很多情形都会直接出发一个新的渲染层的生成。具体通过复写一些继承类实现的，定义在<a href="https://cs.chromium.org/chromium/src/third_party/WebKit/Source/core/rendering/RenderBoxModelObject.h" target="_blank" rel="external">RenderBoxModelObject::requiresLayer()</a>。一些通用的情形下肯定会出发渲染层的生成。</p><ul>  <li>页面的根对象</li>  <li>有明确CSS定位属性的渲染对象（relative、absolute或者transform）</li>  <li>有透明度</li>  <li>会溢出的、有alpha遮罩或者映射的渲染对象</li>  <li>有CSS过滤</li>  <li>有3D(webGL)上下文或者2D加速上下文的对应canvas元素</li>  <li>对应的video元素</li></ul><p>注意渲染对象与渲染层不是完全一一对应的。特定的渲染对象或者关联着一个已经为这个渲染对象创建好的渲染层，或者关联着第一级祖先已经有了的渲染层。</p><p>渲染层也会形成一个树形结构。树的根节点就对应着页面根节点以及视觉上包含在这个父渲染层的每个子孙节点。每个渲染层节点的子节点会以升序方式保存在两个排序列表中,negZorderList和posZorderList，negZorderList保存着有负值z-indices子渲染层(即层级低于当前层级的渲染层)，posZorderList保存着正值z-indices的子渲染层(即层级高于当前层级的渲染层)。</p><h3 id="从渲染层到图形层"><a href="#从渲染层到图形层" class="headerlink" title="从渲染层到图形层"></a>从渲染层到图形层</h3><p>部分（不是全部）的渲染层通过自己的背景层实现图层的复合（拥有自己背景层的渲染层被广泛的视作复合层）。每个有复合层的渲染层有自己的图形层，或者使用初始元素的图形层。这种关系与渲染对象与渲染层的关系相似。</p><p>每个图形层都有一个图形上下文，这个上下文将关联的渲染层绘制到图形层中。复合图层最后负责将图形上下文的位图输出进行整合按照复合层的顺序输出到最终的屏幕图像上去。</p><p>虽然理论上每个单独的渲染层都可以通过一个单独的复合图层进行绘制，但是在实际处理中，这将是对内存的一种浪费(尤其是显存)。目前的Blink视线中，下面的任意条件都会触发渲染层拥有自己的复合层。</p><ul>  <li>具有3D或者透视的css属性</li>  <li>video</li>  <li>有3D上下文或者2D加速上下文的canvas元素</li>  <li>被用作复合插件的渲染层</li>  <li>使用opacity或者webkit转换的css动画</li>  <li>css过滤器</li>  <li>后代是复合层的</li>  <li>在一个复合层之上</li></ul><h2 id="层的压缩"><a href="#层的压缩" class="headerlink" title="层的压缩"></a>层的压缩</h2><p>规则都是有例外的，正如上面所提到的，复合层在内存以及其他资源上是一种消耗（例如一些重要的操作的CPU时间复杂度是与图形树的尺寸成正比的）。</p><p>如果我们把固有的创建复合层的原因（比如使用3D转换）叫做直接原因。那么为了避免当大量元素使用直接原因导致“层爆炸”，多个渲染层同一个合成层重叠时，Blink将这些层压缩到一个背后的层中。这样就可以避免重叠导致的层次爆炸。</p><p>(后续。。。。)</p>]]></content>
     
@@ -61,7 +83,7 @@
     <link href="https://lidasong.github.io/mugong/2018/03/11/JavaScript%E7%9A%84%E5%BC%80%E9%94%80/"/>
     <id>https://lidasong.github.io/mugong/2018/03/11/JavaScript的开销/</id>
     <published>2018-03-11T06:15:16.000Z</published>
-    <updated>2018-03-11T07:18:51.625Z</updated>
+    <updated>2018-04-06T05:42:00.866Z</updated>
     
     <content type="html"><![CDATA[<blockquote>  <p>在当前的前端开发中，越来越多的重型应用依赖高复杂度的JavaScript，然而很多时候，在不经意间提升了JS的开销。<br>那么就需要有一定的规则来提高应用更快的运行。<br> $$ 更少的代码 = 更小的解析开销 + 更少的传输与解压 $$</p></blockquote><h2 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h2><p>如果JavaScript的文本越大，那么通过线路发送更多字节的JavaScript需要的时间越长，下载和执行成本也就会更高。用户所体验到的就是越慢。</p><p><strong>那么如何减少网络传输带来的开销呢</strong></p><ul>  <li>通过代码的拆分，只传输页面需要使用到的代码。</li>  <li>代码的压缩，通过（Brotli~q11，Zopfli 或者gzip）最大化的代码压缩，较少传送的代码量，进而加速加载速度</li>  <li>删除不使用的代码，通过<a href="https://developers.google.com/web/updates/2017/04/devtools-release-notes" target="_blank" rel="external">Devtools</a>可以发现那些代码并没有使用</li>  <li>通过缓存，减少资源的重复加载。根据JS的生命周期减少不会改变的JS文本，也可以使用最新的Service Worker进行弹性的缓存</li></ul><h2 id="解析-编译"><a href="#解析-编译" class="headerlink" title="解析/编译"></a>解析/编译</h2><p>当JavaScript文件下载完成后，JavaScript的最严重的开销就是JS引擎对代码的解析编译。如果JS的解析花费的时间越长的话，这样用户的交互响应对应的被延迟。尤其对于移动端来说，移动设备的CPU与GPU更慢，而且存储也更有限。<br>因此尽量去除不重要的JavaScript代码是很有必要的，这回减少传输时间，相应的也会加快CPU的解析编译速度，也会减少内存溢出的潜在风险。</p><h2 id="执行"><a href="#执行" class="headerlink" title="执行"></a>执行</h2><p>除了JavaScript的解析编译会花费大量时间外，JS的执行也会在主线程中执行，阻塞其他的各类交互响应，因此<br>JS的执行时间越长，也就会延长用户正常交互的等待时间</p><h2 id="减少JavaScript传输开销模式"><a href="#减少JavaScript传输开销模式" class="headerlink" title="减少JavaScript传输开销模式"></a>减少JavaScript传输开销模式</h2><p>基于路由的分块或者PRPL,更加详细的介绍 =&gt; <a href="https://developers.google.com/web/fundamentals/performance/prpl-pattern/?hl=zh-cn" target="_blank" rel="external"><strong>PRPL</strong></a></p><h2 id="其他类型的开销"><a href="#其他类型的开销" class="headerlink" title="其他类型的开销"></a>其他类型的开销</h2><ul>  <li>内存。如果GC频繁触发会导致页面出现卡顿。当浏览器进行内存的回收，就要导致JS暂停执行。注意避免内存泄漏与频繁的GC可以有更好的交互效果。</li>  <li>大量计算。因为JS的单线程，如果主线程在做大量的计算处理，相应的就会导致页面的不可交互。因此将大工作量分块(requestAnimationFrame、requestIdleCallback)，这样就可以减少不可交互的出现。</li></ul>]]></content>
     
@@ -75,28 +97,6 @@
       <category term="javascript" scheme="https://lidasong.github.io/mugong/tags/javascript/"/>
     
       <category term="performance" scheme="https://lidasong.github.io/mugong/tags/performance/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2018年初目标</title>
-    <link href="https://lidasong.github.io/mugong/2018/03/10/blog/2018-03-10-target/"/>
-    <id>https://lidasong.github.io/mugong/2018/03/10/blog/2018-03-10-target/</id>
-    <published>2018-03-10T06:37:52.979Z</published>
-    <updated>2018-03-25T05:15:37.942Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="总概"><a href="#总概" class="headerlink" title="总概"></a>总概</h2><h3 id="生活中"><a href="#生活中" class="headerlink" title="生活中"></a>生活中</h3><p>2018年需要从生活方式开始做起，重塑一个完整的自己。</p><ul>  <li>起居    <blockquote>      <p>逐渐养成早睡早起的作息规律(目前 01:00 - 08::30)，保护充足的休息时间以及睡眠质量</p>    </blockquote>  </li>  <li>运动    <blockquote>      <p>运动是青春的保鲜剂，一周中最少抽出2~3个小时运动锻炼(篮球、羽毛球，慢跑…)</p>    </blockquote>  </li>  <li>LBMI (Last But Most Important)    <blockquote>      <p>争取告别单身，向 11.11狗节say goodbye！！！</p>    </blockquote>  </li></ul><h3 id="工作中"><a href="#工作中" class="headerlink" title="工作中"></a>工作中</h3><p>2018年对于入职一年多来说，还只能算是小菜鸟，崭新的一年。这一年需要更多的时间去充实自己的技术基础，虽然目前来说已经对项目有了完整的掌控，对各种需求可以轻松处理，但是为了应对更残酷的明天，一个有追求的前端开发还需要实时跟随时代的脉搏。<br>尽可能做些内部分享，将自己的在项目中处理工作的一些感悟以及知识点分享给团队开发成员，将平时的空隙时间自己研究的技术储备向大家介绍，以求共同学习，抛砖引玉。</p><h3 id="性格"><a href="#性格" class="headerlink" title="性格"></a>性格</h3><p>摒弃浮躁，尽量压制自己的鲁莽，更友好交流，做个更完美的聆听者。</p><h3 id="技术"><a href="#技术" class="headerlink" title="技术"></a>技术</h3><p>作为一面前端工程师，需要做的很多，但是很多重要的点并没有真正地做到庖丁解牛的地步，在这些方面要更下功夫，能理解，用得好，还要深刻剖析，可以二次加工，知其内涵。<br>21世纪是数据的时代，学习一门新的语言——Python，通过Python去认知数据的世界。</p>]]></content>
-    
-    <summary type="html">
-    
-      2018年 年初目标，未来一段时间规划!
-    
-    </summary>
-    
-      <category term="blog" scheme="https://lidasong.github.io/mugong/categories/blog/"/>
-    
-    
-      <category term="目标 年初目标" scheme="https://lidasong.github.io/mugong/tags/%E7%9B%AE%E6%A0%87-%E5%B9%B4%E5%88%9D%E7%9B%AE%E6%A0%87/"/>
     
   </entry>
   
